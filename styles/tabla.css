@@ -1,0 +1,27 @@
+table {
+    width: 50%;
+    text-align: center;
+    border: solid 1px black;
+    margin: auto;
+    border-collapse: collapse;
+}
+td,th{
+    border: solid 1px black;
+}
+thead{
+    background-color: green;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color:red;
+}
+    tfoot{
+        background-color: beige;
+ }
+ tbody,tr,td prueba:nth-child(even) {
+    background-color: aquamarine;
+ }
+    
+    
+ 
+
